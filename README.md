@@ -1,16 +1,17 @@
 ![OSRI: Make the work traceable. A starting structure for research in Git.](assets/prism-header.png)
 
-# [Project title]
+# [Paper or working title]
 
 English | [简体中文（待审核）](translations/zh-Hans/README.md)
 
-Use this repository for one coherent research project. It can span several fields and produce several publications.
+Use this repository for one research study. It can span several fields and produce several publications. The README introduces the study, **Issues** holds tasks, and **Pull requests** holds proposed changes.
 
 ## Begin
 
 1. Choose **Use this template** to create a repository. An administrator can create it under OSRI, or you can begin in your own account.
-2. Fill in the short brief below and open one issue for the first task.
-3. Follow the [OSRI research guide](https://github.com/Open-Source-Research-Initiative/osri/blob/main/START_HERE.md). Ask for help in [Q&A](https://github.com/Open-Source-Research-Initiative/.github/discussions/new?category=q-a).
+2. Name the repository after the paper or working title, using lowercase words separated by hyphens. Keep the full title as the README heading.
+3. Fill in the short brief below and open one issue for the first task.
+4. Follow the [OSRI research guide](https://github.com/Open-Source-Research-Initiative/osri/blob/main/START_HERE.md). Ask for help in [Q&A](https://github.com/Open-Source-Research-Initiative/.github/discussions/new?category=q-a).
 
 The [browser setup guide](https://open-source-research-initiative.github.io/guides/docs/browser-setup/) explains template creation, README editing, and the first issue. You can also ask a maintainer to add your brief or source table. No terminal or agent installation is required.
 
